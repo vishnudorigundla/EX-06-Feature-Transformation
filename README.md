@@ -275,6 +275,19 @@ df["Pclass"].hist()
 df["Pclass_sq"].hist()
 ```
 # OUTPUT:
+![e](https://user-images.githubusercontent.com/94175324/168820783-7037caef-c4ae-4f89-92fb-bd9180304dd4.png)
+![e2](https://user-images.githubusercontent.com/94175324/168820859-8b04988b-2959-463b-8959-b24dca8ba72c.png)
+![e3](https://user-images.githubusercontent.com/94175324/168820895-92d70cc4-9880-430c-bf2c-e73499929a10.png)
+![e4](https://user-images.githubusercontent.com/94175324/168820924-7daac5b4-3680-4715-9bf2-23f27fe59aec.png)
+![e5](https://user-images.githubusercontent.com/94175324/168820941-b13b0d74-69f6-45a3-ab6b-04b9eed3bd1a.png)
+![e6](https://user-images.githubusercontent.com/94175324/168820973-d21ed005-cc92-40c9-a36b-6352f93a97ba.png)
+![e7](https://user-images.githubusercontent.com/94175324/168820992-6fee831e-d555-48f9-9505-71248c5ecf5f.png)
+![e8](https://user-images.githubusercontent.com/94175324/168821034-26c1e68e-fbdc-4512-ba6b-8054c6bb7fe0.png)
+![e9](https://user-images.githubusercontent.com/94175324/168821077-8754c366-5f33-422b-b298-2a9cd14d3df9.png)
+![e10](https://user-images.githubusercontent.com/94175324/168821096-05e9935c-d4df-4acc-877b-c0a2e6d2e07a.png)
+![e11](https://user-images.githubusercontent.com/94175324/168821137-f347eae1-070c-409e-8f81-e5209c66da26.png)
+![e12](https://user-images.githubusercontent.com/94175324/168821167-d4c18bee-84ae-4f7b-9615-f5dec451ea5c.png)
+
 
 
 
